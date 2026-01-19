@@ -1,4 +1,4 @@
-module proto
+module github.com/wyn407473978/proto
 
 go 1.24.5
 
