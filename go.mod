@@ -1,10 +1,12 @@
 module github.com/wyn407473978/proto
 
-go 1.24.5
+go 1.24.0
+
+toolchain go1.24.5
 
 require (
 	google.golang.org/grpc v1.78.0
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/protobuf v1.36.10
 )
 
 require (
