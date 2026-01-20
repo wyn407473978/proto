@@ -1,5 +1,5 @@
 syntax = "proto3";
-package server_stream;
+package server_stream_v1;
 
 option go_package = "github.com/wyn407473978/proto/api/server_stream/v1;server_stream_v1";
 
